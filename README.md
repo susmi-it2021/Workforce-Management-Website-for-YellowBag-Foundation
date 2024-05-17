@@ -1,9 +1,9 @@
-Internship Project: Workforce Management Website for YellowBag Foundation
+##Internship Project: Workforce Management Website for YellowBag Foundation
 
 The project titled “WORKFORCE MANAGEMENT WEBSITE FOR YELLOW BAG FOUNDATION” has been initiated for the “YellowBag Foundation”. The primary objective of this project is to minimize manual work and
 reduce time consumption.
 
-Features
+##Features
 
 This project includes modules such as an employee database, attendance processing, customer E-form, automated salary calculation, and performance analysis.
 - The Employee Database Management module includes an admin panel that offers a for executing CRUD operations on employee records and admin has the provision to export employee data in CSV format, promoting enhanced
@@ -17,7 +17,7 @@ from the attendance processing module, to compute an employee’s salary accurat
 whether the employee has an entry on Sunday from the attendance processing module.
 - Customer analysis is done by retrieving 6 customer feedback data from a database. Used Chart.js to present the data through bar charts for better understanding. This analysis approach evaluates workforce efficiency.
 
-Technology Stack
+##Technology Stack
 
 - **PHP**: Used for server-side scripting.
 - **phpMyAdmin**: Used for managing the MySQL database through a web interface.
