@@ -23,7 +23,7 @@ This project includes modules such as an employee database, attendance processin
 - [Project Document](https://drive.google.com/file/d/1_IzWebixNhJqebanoEUffX-lKigMLqzJ/view?usp=sharing)
 
 ## Execution Video
-- [Execution Video 1](https://drive.google.com/file/d/1W7g4EMQ0nncIfRWHT9FZ10clgG-yUZ8L/view?usp=sharing)
+- [Execution Video ](https://drive.google.com/file/d/1W7g4EMQ0nncIfRWHT9FZ10clgG-yUZ8L/view?usp=sharing)
 
 ## Presentations
 - [Review 1](https://docs.google.com/presentation/d/1VtbqD78ELCqFoEfaO86rDWSjDxB3LiCYqd5nHbJ4g1A/edit?usp=sharing)
