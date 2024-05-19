@@ -20,6 +20,7 @@ This project includes modules such as an employee database, attendance processin
 - **JavaScript**: For front-end interactivity.
 
 ## Project Document
+
 - [Document](https://drive.google.com/file/d/1_IzWebixNhJqebanoEUffX-lKigMLqzJ/view?usp=sharing)
 
 ## Execution Video
@@ -30,7 +31,35 @@ This project includes modules such as an employee database, attendance processin
 - [Review 2](https://docs.google.com/presentation/d/1mcapMY1PDL531FY9pxpsVCh33a0KQhzV1-ryXn18IWg/edit?usp=sharing)
 - [Review 3](https://docs.google.com/presentation/d/1PnqRQxYE5_WBb2j1M-q6wdrGGhhLv8VQ/edit?usp=sharing&ouid=109999384852496109890&rtpof=true&sd=true)
 
+## Project Snapshots
+
+![image](https://github.com/Susmitha-IT/Workforce-Management-Website-for-YellowBag-Foundation/assets/101201451/051b25eb-e3db-49a1-8826-5ebe5273464a)
+
+- Employee Records
+![image](https://github.com/Susmitha-IT/Workforce-Management-Website-for-YellowBag-Foundation/assets/101201451/3ce684d3-ec9b-4be4-98c7-cb94a437282c)
+![image](https://github.com/Susmitha-IT/Workforce-Management-Website-for-YellowBag-Foundation/assets/101201451/4bec50f0-13b8-4a78-bb9b-cf7f6cb75c3d)
+![image](https://github.com/Susmitha-IT/Workforce-Management-Website-for-YellowBag-Foundation/assets/101201451/1ae16dc7-156c-4be1-ba16-62bda53e99d6)
+![image](https://github.com/Susmitha-IT/Workforce-Management-Website-for-YellowBag-Foundation/assets/101201451/04e776e0-b8b7-4296-b36f-e6b8d95db818)
+
+- Attendance Processing
+
+![image](https://github.com/Susmitha-IT/Workforce-Management-Website-for-YellowBag-Foundation/assets/101201451/bdf1670b-9c6c-44ea-80b0-2461a4e49906)
+![image](https://github.com/Susmitha-IT/Workforce-Management-Website-for-YellowBag-Foundation/assets/101201451/bac80e5e-750f-428d-9aa9-1a0c81830f99)
+![image](https://github.com/Susmitha-IT/Workforce-Management-Website-for-YellowBag-Foundation/assets/101201451/5843dac5-b779-41c9-9723-8a90b937da8e)
+
+- Customer Form
+![image](https://github.com/Susmitha-IT/Workforce-Management-Website-for-YellowBag-Foundation/assets/101201451/7f309275-ff03-4425-9c79-8a7ded6237e0)
+![image](https://github.com/Susmitha-IT/Workforce-Management-Website-for-YellowBag-Foundation/assets/101201451/2236096d-9280-4dbe-8e4d-24e2c0cc5c59)
+![image](https://github.com/Susmitha-IT/Workforce-Management-Website-for-YellowBag-Foundation/assets/101201451/0713ea8f-f229-42d4-88bf-abc1ff21ebb3)
 
 
+- Salary Calculation
+![image](https://github.com/Susmitha-IT/Workforce-Management-Website-for-YellowBag-Foundation/assets/101201451/d6fecbc1-6f84-4233-b534-c36c8e464c1f)
+![image](https://github.com/Susmitha-IT/Workforce-Management-Website-for-YellowBag-Foundation/assets/101201451/165494fe-9a10-48b1-b68f-e6ee5d98fa26)
+
+- Performance Analysis
+
+![image](https://github.com/Susmitha-IT/Workforce-Management-Website-for-YellowBag-Foundation/assets/101201451/4e37619e-09b6-431a-a8a4-42c104ddd08e)
+![image](https://github.com/Susmitha-IT/Workforce-Management-Website-for-YellowBag-Foundation/assets/101201451/c901177a-986f-43f7-a0f8-3d52e271f37d)
 
 
